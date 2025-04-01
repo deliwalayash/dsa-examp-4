@@ -52,6 +52,7 @@ int main()
     cout << "Sum of row Numbers is :" << sum;
 
     cout << endl;
+    
     sum = 0;
 
     cout << "Enter Column number you want to Sum:";
