@@ -43,7 +43,7 @@ int main()
 
     cout <<"Elements of row->"<< row_num <<":";
 
-    for (k = 0; k < row; k++)
+    for (k = 0; k < col; k++)
     {
         cout << arr[row_num - 1][k] << " ";
         sum = sum + arr[row_num - 1][k];
